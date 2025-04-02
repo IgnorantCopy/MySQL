@@ -11,5 +11,12 @@
     <file url="file://$PROJECT_DIR$/tutorial/basics/03-DQL/05-排序查询.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/03-DQL/06-分页查询.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/04-DCL/01-用户管理.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/04-DCL/02-权限控制.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/05-functions/01-string.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/05-functions/02-numerical.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/05-functions/03-date.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/05-functions/04-control.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/06-constraints/01-example.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/06-constraints/02-外键约束.sql" dialect="MySQL" />
   </component>
 </project>
