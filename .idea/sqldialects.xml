@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/01-数据库操作.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/02-表操作.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/02-DML/DML语言.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/03-DQL/01-基础查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/03-DQL/02-条件查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/03-DQL/03-聚合函数.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/03-DQL/04-分组查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/03-DQL/05-排序查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/03-DQL/06-分页查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/04-DCL/01-用户管理.sql" dialect="MySQL" />
+  </component>
+</project>
