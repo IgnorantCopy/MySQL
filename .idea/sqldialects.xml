@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/tutorial/advance/01-storage/01-intro.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/00-data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/01-type.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/02-performance.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/03-usage.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/01-数据库操作.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/02-表操作.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/02-DML/DML语言.sql" dialect="MySQL" />
@@ -18,5 +23,14 @@
     <file url="file://$PROJECT_DIR$/tutorial/basics/05-functions/04-control.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/06-constraints/01-example.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/06-constraints/02-外键约束.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/07-join/01-intro.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/07-join/02-内连接.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/07-join/03-外连接.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/07-join/04-自连接.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/07-join/05-联合查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/07-join/06-子查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/07-join/07-exercise.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/08-transaction/01-事务操作.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/basics/08-transaction/02-事务并发与隔离级别.sql" dialect="MySQL" />
   </component>
 </project>
