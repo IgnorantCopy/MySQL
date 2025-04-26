@@ -1,0 +1,6 @@
+SELECT * FROM tb_sku LIMIT 0, 10;
+SELECT * FROM tb_sku LIMIT 10, 10;
+SELECT * FROM tb_sku LIMIT 1000000, 10; -- 先要对 0 - 1000010 的数据进行排序，然后仅返回 1000000 - 100010 的数据
+
+SELECT id FROM tb_sku ORDER BY id LIMIT 1000000, 10;
+SELECT * FROM tb_sku s1 , (SELECT id FROM tb_sku ORDER BY id LIMIT 1000000, 10) s2 WHERE s1.id = s2.id;

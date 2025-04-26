@@ -6,6 +6,13 @@
     <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/01-type.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/02-performance.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/03-usage.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/01-insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/02-key.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/03-orderby.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/04-groupby.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/05-limit.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/06-count.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/07-update.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/01-数据库操作.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/02-表操作.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/02-DML/DML语言.sql" dialect="MySQL" />
