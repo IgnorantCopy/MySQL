@@ -13,6 +13,11 @@
     <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/05-limit.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/06-count.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/03-optimize/07-update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/04-view/01-intro.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/04-view/02-option.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/04-view/03-update.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/04-view/04-example.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/05-procedure/01-intro.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/01-数据库操作.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/02-表操作.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/02-DML/DML语言.sql" dialect="MySQL" />
