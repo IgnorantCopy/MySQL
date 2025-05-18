@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/labs/lab2/library.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/01-storage/01-intro.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/00-data.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/02-index/01-type.sql" dialect="MySQL" />
@@ -18,6 +19,12 @@
     <file url="file://$PROJECT_DIR$/tutorial/advance/04-view/03-update.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/04-view/04-example.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/advance/05-procedure/01-intro.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/05-procedure/02-variables.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/05-procedure/03-if.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/05-procedure/04-params.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/05-procedure/05-loop.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/05-procedure/06-cursor.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tutorial/advance/05-procedure/07-function.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/01-数据库操作.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/01-DDL/02-表操作.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/tutorial/basics/02-DML/DML语言.sql" dialect="MySQL" />
